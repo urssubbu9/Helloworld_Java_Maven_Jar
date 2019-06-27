@@ -16,7 +16,7 @@ For any questions - Please email me at DevOps@RajeshKumar.xyz
 	</snapshotRepository>
 
 </distributionManagement>
-
+===============ARTIFACTORY=================
 
 ===============ARTIFACTORY=================
 <distributionManagement>
