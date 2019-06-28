@@ -42,12 +42,12 @@
     <repository>
         <id>deployment</id>
         <name>release softx</name>
-        <url>http://3.92.209.45:8081/nexus/content/repositories/test/</url>
+        <url>http://3.92.205.228:8081/nexus/content/repositories/TEST_Release/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
         <name>snapshot softx</name>
-        <url>http://52.66.196.78:8081/repository/all/</url>
+        <url>http://3.92.205.228:8081/nexus/content/repositories/TEST_SNAP/</url>
     </snapshotRepository>
 </distributionManagement>
 
